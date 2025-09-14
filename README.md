@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Hi, I'm Shamim 👋
+- 🔭 I’m currently working on C++ projects
+- 🌱 Learning Blockchain & Smart Contracts
+- 💻 Love problem solving with STL & OOP
+- 📫 Reach me at:shamimhossain1575@gmail.com
+
+
 <!--
 **Shamim756/Shamim756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
