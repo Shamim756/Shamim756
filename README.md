@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi, I'm Shamim 👋
 - 🔭 I’m currently working on C++ projects
