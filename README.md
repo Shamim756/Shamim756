@@ -2,7 +2,7 @@
 
 # Hi, I'm Shamim 👋
 - 🔭 I’m currently working on C++ projects
-- 🌱 Learning Blockchain & Smart Contracts
+-<!-- 🌱 Learning Blockchain & Smart Contracts>
 - 💻 Love problem solving with STL & OOP
 - 📫 Reach me at:shamimhossain1575@gmail.com
 
