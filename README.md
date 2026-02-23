@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I AM SHAIM+LOVE TO SLEEP+HATE TO CODE+LEARN TO NEW&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I+AM+SHAIM;LOVE+TO+SLEEP+HATE+TO+CODE;LEARN+TO+NEW&center=true&width=500&height=50">
+
