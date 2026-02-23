@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-<img width="1454" height="833" alt="Screenshot_20260202_114000" src="https://github.com/user-attachments/assets/4fc1aea0-67e4-4b26-a177-b9c215872380" />
