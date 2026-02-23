@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![C++](https://img.shields.io/badge/C++-blue)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
